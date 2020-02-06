@@ -1,0 +1,19 @@
+{
+  "name": "vk-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PickNRolls/vk-server.git"
+  },
+  "author": "Ilya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PickNRolls/vk-server/issues"
+  },
+  "homepage": "https://github.com/PickNRolls/vk-server#readme"
+}
